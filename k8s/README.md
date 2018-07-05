@@ -1,4 +1,4 @@
-## Google Container Engine (kubernetes) example
+## Kubernetes example
 
 This directory contains example files for defining an iperf service to act
 in the server role on a kubernetes cluster, and a one-shot kubernetes job
