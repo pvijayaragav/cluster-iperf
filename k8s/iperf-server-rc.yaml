@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: iperf-server
-        image: markbnj/cluster-iperf:0.0.1
+        image: pvijayaragav/kube-perf:latest 
         env:
         - name: ROLE
           value: server
